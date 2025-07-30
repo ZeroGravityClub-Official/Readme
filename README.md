@@ -8,11 +8,8 @@ Zero Gravity Club is a vibrant platform created by students, for students, desig
 **What We Do**:
 
 Organize workshops, hackathons, and coding challenges that spark creativity and technical growth
-
 Host interactive sessions with industry professionals to keep members updated with the latest tech trends
-
 Foster a community that values leadership, teamwork, and innovation
-
 Provide opportunities for students to showcase talents and gain real-world experience
 
 **Our Mission**:
