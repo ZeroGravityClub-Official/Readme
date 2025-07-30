@@ -1,4 +1,5 @@
-🚀 **Zero Gravity Club**
+🚀 **Zero Gravity Club** 🚀:
+
 Welcome to the official GitHub repository of Zero Gravity Club, the IT Department’s dynamic and inclusive student-led community dedicated to innovation, collaboration, and hands-on learning in Information Technology.
 
 **About Us**:
