@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of Zero Gravity Club, the IT Departmen
 
 **About Us**:
 
-Zero Gravity Club is a vibrant platform created by students, for students, designed to bridge the gap between academic knowledge and industry demands. We empower tech enthusiasts to push beyond boundaries — just like our name suggests: Zero Gravity.
+Zero Gravity Club is a vibrant platform created by students, for students, designed to bridge the gap between academic knowledge and industry demands. We empower tech enthusiasts to push beyond boundaries just like our name suggests: Zero Gravity.
 
 **What We Do**:
 
@@ -15,7 +15,7 @@ Provide opportunities for students to showcase talents and gain real-world exper
 
 **Our Mission**:
 
-To build a thriving community of technology enthusiasts who learn, collaborate, and innovate together — preparing members for real-world challenges and careers in IT.
+To build a thriving community of technology enthusiasts who learn, collaborate, and innovate together preparing members for real-world challenges and careers in IT.
 
 **Join Us**:
 
